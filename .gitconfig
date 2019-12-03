@@ -1,0 +1,9 @@
+[user]
+	name = vaibhav2396
+	email = vaibhav.thapliyal6@gmail.com
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
